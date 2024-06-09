@@ -8,16 +8,20 @@ Answer the following questions based on your understanding of the installation a
 
 1. Installation of VS Code:
    - Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
-   -Visit the official Visual Studio Code website (https://code.visualstudio.com/) and download the installer for Windows 11.
+   
+-Visit the official Visual Studio Code website (https://code.visualstudio.com/) and download the installer for Windows 11.
 Run the installer and follow the on-screen instructions. No additional prerequisites are required for installation. 
 
 2. First-time Setup:
-   - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
+   -
+   -  After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
    - Install essential extensions like "ESLint" for JavaScript development or "Python" for Python development.
 Adjust settings such as font size, theme, and indentation preferences in the settings menu (File > Preferences > Settings).
 
 3. User Interface Overview:
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
+   -
+   -
    - Activity Bar: Houses icons for different activities like exploring files, searching, source control, debugging, and extensions.
 Side Bar: Provides access to different views such as Explorer, Search, Source Control, and Extensions.
 Editor Group: Contains one or more editor tabs where files are opened for editing.
@@ -25,13 +29,17 @@ Status Bar: Displays information about the current file, Git branch, errors, and
 
 4. Command Palette:
    - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
+   -
    - The Command Palette is accessed by pressing Ctrl + Shift + P (Windows) or Cmd + Shift + P (Mac).
 Examples of tasks: opening files, searching for commands, running tasks, and managing extensions.
 
 
 5. Extensions in VS Code:
+
    - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
-   - Extensions add functionality to VS Code, and users can find, install, and manage them through the Extensions view in the Side Bar.
+   -
+   -
+     Extensions add functionality to VS Code, and users can find, install, and manage them through the Extensions view in the Side Bar.
 Essential extensions for web development include "Live Server" for live previews, "Prettier" for code formatting, and "Auto Close Tag" for HTML.
 
 6. Integrated Terminal:

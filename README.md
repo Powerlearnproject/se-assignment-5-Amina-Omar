@@ -12,8 +12,8 @@ Answer the following questions based on your understanding of the installation a
 -Visit the official Visual Studio Code website (https://code.visualstudio.com/) and download the installer for Windows 11.
 Run the installer and follow the on-screen instructions. No additional prerequisites are required for installation. 
 
-2. First-time Setup:
-   -
+2. first-time setup 
+   
    -  After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
    - Install essential extensions like "ESLint" for JavaScript development or "Python" for Python development.
 Adjust settings such as font size, theme, and indentation preferences in the settings menu (File > Preferences > Settings).
